@@ -36,7 +36,7 @@ Allow the entire script to run until the correct password is found should take a
 
 Once the password has been found, click on the Cancel button to cancel the erasal.
 
-Unfortunately there is no way to find out whether the correct password has been entered or not automatically. But instead just keep an eye on your iphone once the script has found the correct password check the logs on the flipper's progress for running the script to see around which line was correct.
+Unfortunately there is no way to find out whether the correct password has been entered or not automatically. But instead just keep an eye on your iphone, once the script has found the correct password check the logs on the flipper's progress for running the script to see around which line was correct.
 
 Open up the Screentime_Bypass.txt script using any text editor i prefer Visual Studio Code, and head to around which line number was the correct password.
 
