@@ -49,3 +49,7 @@ Note that password down, and immediately cancel the erasal again.
 And thats all! Screen Time Password cracked!
 
 ---
+
+NOTE: I just had this idea while i was lying in bed, tried it and it worked perfectly. This is not meant for malicious usage but instead for educational purposes.
+
+---
