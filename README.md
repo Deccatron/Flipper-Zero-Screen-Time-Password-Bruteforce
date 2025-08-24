@@ -4,6 +4,12 @@ A simple educational script that sequentially tests all possible 4 digit combina
 
 ---
 
+**What does this do?**
+
+This repository provides a simple wordlist and script which, when used with a Flipper Zero connected to an iPhone, exploits a vulnerability to bypass rate limiting. It then brute-forces every possible Screen Time PIN combination until successful, allowing the user to automatically retrieve the Screen Time passcode. With this method, the process can be completed in approximately 2 hours and 10 minutes with a 100% success rate, regardless of the iOS version.
+
+---
+
 **Instructions**
 
 To start open the QFlipper app.
