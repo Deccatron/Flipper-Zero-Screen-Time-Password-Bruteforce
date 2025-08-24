@@ -1,7 +1,7 @@
 # Flipper Zero Screen Time Password Bruteforce Wordlist Generator
 
 total_sequences = 10000    
-delay_ms = 500             
+delay_ms = 750             
 initial_delay_ms = 5000   
 filename = "Screentime_Bypass.txt"  
 
