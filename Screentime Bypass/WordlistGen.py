@@ -3,7 +3,7 @@
 total_sequences = 10000    
 delay_ms = 500             
 initial_delay_ms = 5000   
-filename = "dummy_pin_all.txt"  
+filename = "Screentime_Bypass.txt"  
 
 with open(filename, "w") as f:
     f.write("Flipper Zero Screen Time Password Bruteforce Wordlist Generator")
