@@ -32,7 +32,7 @@ Click on configure and set BadKB to run off a USB connection instead of bluetoot
 
 Once configured head back to the Screentime_Bypass BadKB option and click run.
 
-Allow the entire script to run until the correct password is found should take around 1 hour and 49 minutes exactly (If using my stock configuration of 650 MS between each attempt which i reccomend since if its too fast the BadKB will input passwords faster than the phone can register meaning this wont work...)
+Allow the entire script to run until the correct password is found should take around 2 hours and 5 minutes minutes exactly (If using my stock configuration of 750 MS between each attempt which i reccomend since if its too fast the BadKB will input passwords faster than the phone can register meaning this wont work...)
 
 Once the password has been found, click on the Cancel button to cancel the erasal.
 
