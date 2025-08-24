@@ -6,7 +6,7 @@ initial_delay_ms = 5000
 filename = "Screentime_Bypass.txt"  
 
 with open(filename, "w") as f:
-    f.write("Flipper Zero Screen Time Password Bruteforce Wordlist Generator")
+    f.write("") #Put whatever you want here i reccomend nothing...
     f.write(f"DELAY {initial_delay_ms}\n\n") 
 
     for i in range(total_sequences):
